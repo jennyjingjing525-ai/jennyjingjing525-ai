@@ -35,9 +35,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jennyjingjing525-ai&show_icons=true&theme=radical&hide_border=true" height="145" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennyjingjing525-ai&layout=compact&theme=radical&hide_border=true" height="145" />
-</p>
