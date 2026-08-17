@@ -1,6 +1,6 @@
 # Hi, I'm Jenny 👋
 
-Applied AI Engineer & Software Engineer specializing in agentic workflows, machine learning pipelines, and FinTech infrastructure.
+> **AI / Machine Learning Engineer & Software Engineer** specializing in agentic workflows, scalable ML pipelines, and FinTech infrastructure.
 
 ---
 
